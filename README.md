@@ -110,7 +110,7 @@ Click on this linke to contact expert now [Code And Grow Web Design & Marketing]
 
 
 
-## Credits
+## Credits and Thanks to people below who contribute in code and support!
 
 @devton twitter [Twitter](www.twitter.com/@_devton)
 [@hackangrow](https://github.com/hackandgrow) Twitter [@will_pattison](www.twitter.com/will_pattison) 
@@ -118,6 +118,8 @@ Click on this linke to contact expert now [Code And Grow Web Design & Marketing]
 @geemus
 [@mcormeta](https://github.com/mcometa)
 [@brijeshror](https://github.com/brijeshror)
+@levibostian
+@harperreed
 
 
 
