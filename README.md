@@ -1,13 +1,21 @@
-# ProduceRun [![Build Status](https://img.shields.io/travis/catarse/catarse.svg)](https://travis-ci.org/catarse/catarse) [![Coverage Status](https://img.shields.io/coveralls/catarse/catarse/channels.svg)](https://coveralls.io/r/catarse/catarse) [![Dependency Status](https://img.shields.io/gemnasium/catarse/catarse.svg)](https://gemnasium.com/catarse/catarse) [![Code Climate](https://img.shields.io/codeclimate/github/catarse/catarse.svg)](https://codeclimate.com/github/catarse/catarse)
+# Open Source Crowdfunding by ProduceRun, Catarse & Tilt [![Build Status](https://img.shields.io/travis/catarse/catarse.svg)](https://travis-ci.org/catarse/catarse) [![Coverage Status](https://img.shields.io/coveralls/catarse/catarse/channels.svg)](https://coveralls.io/r/catarse/catarse) [![Dependency Status](https://img.shields.io/gemnasium/catarse/catarse.svg)](https://gemnasium.com/catarse/catarse) [![Code Climate](https://img.shields.io/codeclimate/github/catarse/catarse.svg)](https://codeclimate.com/github/catarse/catarse)
 
-The first opensource USA crowdfunding/groupbuying platform
+Welcome to Hack and Grow's Open Source Crowdfunding code repository.
 
-## An open source groupbuying platform for local food.
-
-Welcome to ProduceRun's source code repository.
 Our goal with opening the source code is to stimulate the creation of a community of developers around a high-quality crowdfunding/groupbuying platform.
 
-You can see the software in action in http://www.producerun.com
+@hackandgrow, I believe Crowdfunding/Groupbuying can solve a lot of our every day issues around finance, logistics and bring people together to just name a few uses.
+
+I want to see the use of this codebase, entrepreneurs have the ablity to quickly build solutions that solve real problems and give back to this community in their work.
+
+This repo is a mixture of  Tilt.com, Catarse.me and finally ProduceRun.com who converted it to english to first opensource english crowdfunding/groupbuying platform
+
+You can see the software in action
+
+* http://www.producerun.com (Ruby on Rails)
+* www.catarse.me (Ruby on Rails)
+* [wwww.tilt.com](http://tilt.tc/love-wpattison) (Python)
+
 The official repo is https://github.com/producerun/producerun
 
 ## Getting started
@@ -28,11 +36,11 @@ To run this project you need to have:
 
 * Clone the project
 
-        $ git clone https://github.com/producerun/producerun.git
+        $ git clone https://github.com/hackandgrow/opensourcecrowdfunding.git
 
 * Enter project folder
 
-        $ cd producerun
+        $ cd opensourcecrowdfunding
 
 * Create the `database.yml`
 
@@ -64,7 +72,7 @@ This repo is offered in only english at this stage
 
 ## Payment gateways
 
-Currently, we support Braintree through our payment engines. Payment engines are extensions to ProduceRun that implement a specific payment gateway logic.
+Currently, Braintree marketplace is fully intregated into this codebase. Payment engines are extensions to Codebase that implement a specific payment gateway logic.
 The current working engines are:
 * Braintree Marketplace, https://www.braintreepayments.com/features/marketplace
 * 
