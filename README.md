@@ -103,9 +103,27 @@ After that, just fork the project, change what you want, and send us a pull requ
 * Feel free to add specs to the code that is already in the repository without the proper coverage ;)
 * Regard the existing tests for a style guide, we try to use implicit spec subjects and lazy evaluation as often as we can.
 
+## Need Expert Help To Set Up Your Own Project?
+
+Click on this linke to contact expert now [Code And Grow Web Design & Marketing](http://codeandgrow.com.au/#contact)
+
+
+
+
+## Credits
+
+@devton twitter [Twitter](www.twitter.com/@_devton)
+[@hackangrow](https://github.com/hackandgrow) Twitter [@will_pattison](www.twitter.com/will_pattison) 
+@dusan
+@geemus
+[@mcormeta](https://github.com/mcometa)
+[@brijeshror](https://github.com/brijeshror)
+
+
+
 ## License
 
-Copyright (c) 2015 ProduceRun, Inc
+Copyright (c)
 
 Licensed under the MIT license (see MIT-LICENSE file)
 
